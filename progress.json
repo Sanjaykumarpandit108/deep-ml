@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:47:16.814Z",
+  "generated_at": "2026-11-03T19:47:54.255Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-10-31T06:47:16.390Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:357": {
+      "kind": "problem",
+      "id": "357",
+      "title": "Handle Imbalanced Data with SMOTE",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/357",
+      "path": "problems/0357-handle-imbalanced-data-with-smote",
+      "first_solved_at": "2026-11-03T19:47:53.522Z",
+      "last_pushed_at": "2026-11-03T19:47:53.522Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
